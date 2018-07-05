@@ -1,3 +1,5 @@
+# This has now been merged into Gitea, please see the [documentation](https://docs.gitea.io/en-us/customizing-gitea/) for instructions on how to enable
+
 # Gitea - Darkmode
 
 A Dark theme for Gitea for Night owls.
