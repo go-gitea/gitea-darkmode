@@ -1210,3 +1210,9 @@ a.ui.labels .label:hover
     box-shadow: 0 0 0 1px #609926 inset!important;
     color: #609926!important;
   }
+
+  @media only screen and (max-width: 1200px) {
+  .ui.menu.new-menu:after {
+    background-image: linear-gradient(to right,rgba(255,255,255,0),#2a2e3a 100%)!important;
+  }
+}
